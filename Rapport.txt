@@ -4,3 +4,8 @@ NFC
 Définition
 Proprités
 Utilisation
+
+borne de collect de données
+cible microcontrolur==> remontée des valeurs collecter vers équipement compatible NFC
+
+plateforme 1549
